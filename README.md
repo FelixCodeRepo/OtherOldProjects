@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=5AYpFf-TTyw
 ![image](https://user-images.githubusercontent.com/89890055/212551290-41f59dc5-533e-4923-bb89-122bae66042f.png)
 
 Duties: 
-- schematic electrical and software design
+- schematic electrical diagram and software flowcharts design
 - code review
 - wrote English documents for international MATE ROV Competition in Hong Kong
