@@ -2,11 +2,12 @@
 ## Rubik’s Cube Robot (2015, 4 team members):
 Duties: 
 - mechanical arm design
-- color recognition
+- rubik's cubes tracking recognition based on different colors
 
 Embedded C with STM32.
 
-![image](https://user-images.githubusercontent.com/89890055/212551136-a07c433e-9f21-4e50-991e-02c551078406.png)
+![image](https://user-images.githubusercontent.com/89890055/212587481-d6788f9e-8833-4c86-ab0e-600d0cf0a97e.png)
+
 
 Final testing video:
 
